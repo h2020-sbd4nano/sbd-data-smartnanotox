@@ -10,7 +10,7 @@
  a                    void:DatasetDescription ;
  dct:title            "SmartNanoTox Transcriptomics datasets"@en ;
  dc:source            <http://www.smartnanotox.eu/?page_id=131> ;
- foaf:img             <http://www.smartnanotox.eu/wp-content/uploads/2017/09/logo1-1.png> ;
+ foaf:img             <https://www.ucd.ie/sbi/t4media/SNT%20870x400.png> ;
  dct:license          <http://creativecommons.org/publicdomain/zero/1.0/> .
 
 <https://identifiers.org/geo:GSE156457> a sbd:Dataset ;
