@@ -31,7 +31,7 @@
   foaf:page <https://identifiers.org/geo:GSE156457> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to Printex90"@en ;
-  sbdel:NP CBNP: .
+  sbdbel:NP CBNP: .
 
 <https://identifiers.org/geo:GSE156458> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
@@ -56,28 +56,28 @@
   foaf:page <https://identifiers.org/geo:GSE156509> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to TiO2 (NM105, p25 anatase/rutile)"@en ;
-  sbdel:NP NM105: .
+  sbdbel:NP NM105: .
 
 <https://identifiers.org/geo:GSE156511> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE156511> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to NM403 carbon nanotubes"@en ;
-  sbdel:NP NM403: .
+  sbdbel:NP NM403: .
 
 <https://identifiers.org/geo:GSE156564> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE156564> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to TiO2 (NRCWE001)"@en ;
-  sbdel:NP TiO2: .
+  sbdbel:NP TiO2: .
 
 <https://identifiers.org/geo:GSE156571> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE156571> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to multi-walled carbon nanotubes (NRCWE006)"@en ;
-  sbdel:NP MWCNT: .
+  sbdbel:NP MWCNT: .
 
 <https://identifiers.org/geo:GSE156573> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
@@ -90,7 +90,7 @@
   foaf:page <https://identifiers.org/geo:GSE156587> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to Fe2O3 (NRCWE018)."@en ;
-  sbdel:NP Fe2O3: .
+  sbdbel:NP Fe2O3: .
 
 <https://identifiers.org/geo:GSE156659> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
@@ -103,35 +103,35 @@
   foaf:page <https://identifiers.org/geo:GSE156660> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to COOH-functionalized carbon nanotubes (NRCWE042)"@en ;
-  sbdel:NP CNT: .
+  sbdbel:NP CNT: .
 
 <https://identifiers.org/geo:GSE156666> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE156666> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to NH2-functionalized carbon nanotubes (NRCWE049)"@en ;
-  sbdel:NP CNT: .
+  sbdbel:NP CNT: .
 
 <https://identifiers.org/geo:GSE156691> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE156691> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to pristine single-walled carbon nanotubes (NRCWE055)"@en ;
-  sbdel:NP SWCNT: .
+  sbdbel:NP SWCNT: .
 
 <https://identifiers.org/geo:GSE156694> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE156694> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to carbon black (Printex 90)"@en ;
-  sbdel:NP CBNP: .
+  sbdbel:NP CBNP: .
 
 <https://identifiers.org/geo:GSE156695> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE156695> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 rat macrophages cells following exposure to ZnO 4 µg/mL and ZnO 16 µg/mL"@en ;
-  sbdel:NP ZnO: .
+  sbdbel:NP ZnO: .
 
 <https://identifiers.org/geo:GSE117487> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
@@ -144,18 +144,18 @@
   foaf:page <https://identifiers.org/geo:GSE99997> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "TiO2-induced gene expression profiles in rat lung: a subacute inhalation study"@en ;
-  sbdel:NP TiO2: .
+  sbdbel:NP TiO2: .
 
 <https://identifiers.org/geo:GSE99435> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE99435> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of PMA-differentiated THP-1 cells following exposure to zinc oxide nanoparticles NM110"@en ;
-  sbdel:NP NM110: .
+  sbdbel:NP NM110: .
 
 <https://identifiers.org/geo:GSE97852> a sbd:Dataset ;
   dc:source <https://h2020-sbd4nano.github.io/smartnanotox/datasets/> ;
   foaf:page <https://identifiers.org/geo:GSE97852> ;
   dct:license <https://www.wikidata.org/entity/Q50423863> ;
   rdfs:label "Transcriptomic study of NR8383 cells following exposure to zinc oxide nanoparticles NM110"@en ;
-  sbdel:NP NM110: .
+  sbdbel:NP NM110: .
